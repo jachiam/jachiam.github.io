@@ -8,4 +8,4 @@ I'm currently a research scientist at OpenAI working on AI safety. I recently gr
 
 My goal is to ensure that the long-term future of humanity is good and that faster-than-light space travel becomes real.
 
-Other things: I like reading and writing science fiction and fantasy. I know more about Stargate SG1 than is really reasonable for someone to know. Pacific Rim is the greatest movie of all time, and giant robots punching giant aliens is awesome. 
+Other things: I like reading and writing science fiction and fantasy. I know more about Stargate SG1 than is really reasonable for someone to know. Pacific Rim is the greatest movie of all time.
