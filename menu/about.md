@@ -1,19 +1,11 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About Me
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+I'm currently a research scientist at OpenAI working on AI safety. I recently graduated with my PhD from UC Berkeley, advised by [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/) and [Shankar Sastry](https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html). My dissertation on "Exploration and Safety in Deep Reinforcment Learning" is available [here](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-34.pdf). I've mostly worked on safe exploration in deep RL, but I'm interested in a wide range of topics, including alignment, optimization, ethics, and systems safety. I did my undergraduate studies at University of Florida (go Gators!), where I earned Bachelor of Science degrees in Physics and Aerospace Engineering.
 
-### Getting Started
+My goal is to ensure that the long-term future of humanity is good and that faster-than-light space travel becomes real.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Other things: I like reading and writing science fiction and fantasy. I know more about Stargate SG1 than is really reasonable for someone to know. Pacific Rim is the greatest movie of all time, and giant robots punching giant aliens is awesome. 
