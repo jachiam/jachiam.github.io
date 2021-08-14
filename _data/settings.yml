@@ -7,8 +7,9 @@ disqus:
 google-ID: '' #'UA-112060364-1'
 
 menu:
-- {name: 'About',   url: 'about.html'}
+- {name: 'Home', url: ''}
 - {name: 'Writing', url: 'writing.html'}
+- {name: 'About',   url: 'about.html'}
 - {name: 'Research', url: 'research.html'}
 - {name: 'Links', url: 'links.html'}
 
