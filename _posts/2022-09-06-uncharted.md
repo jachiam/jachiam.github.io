@@ -50,7 +50,7 @@ will be your home.
 
 Peter Eckersley passed away last week. I was lucky enough to have worked closely with him last summer and I counted him among my friends. I've said [my piece](https://twitter.com/jachiam0/status/1565944413825613824) about him elsewhere, so this post isn't meant to memorialize him. But it does exist because of him.
 
-I left his memorial service a few hours before composing this post. The eulogies for him were heart-wrenching and beautiful. He was deeply beloved by many because of his infectious joy for life and his efforts to share that joy with others. He built bridges between people, and he did so not by accident but with intentionality---because wherever he saw a way to make things better he went out and did it. He loved poetry.
+I left his memorial service a few hours before putting this post together. The eulogies for him were heart-wrenching and beautiful. He was deeply beloved by many because of his infectious joy for life and his efforts to share that joy with others. He built bridges between people, and he did so not by accident but with intentionality---because wherever he saw a way to make things better he went out and did it. He loved poetry.
 
 A theme that came up in the eulogies was a call to action: to follow Peter's example. To try to be a little bit more like him. To delight in what's beautiful, to share that delight with others, to be more intentional in connecting with others. The call is ringing like a bell in my head. I want to heed it.
 
