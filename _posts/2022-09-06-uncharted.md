@@ -48,7 +48,7 @@ will be your home.
 
 # Postscript
 
-Peter Eckersley passed away last week. I was lucky enough to have worked closely with him last summer and I counted him among my friends. I've said [my piece](https://twitter.com/jachiam0/status/1565944413825613824) about him elsewhere, so this post isn't quite meant to memorialize him. But it does exist because of him.
+Peter Eckersley passed away last week. I was lucky enough to have worked closely with him last summer and I counted him among my friends. I've said [my piece](https://twitter.com/jachiam0/status/1565944413825613824) about him elsewhere, so this post isn't meant to memorialize him. But it does exist because of him.
 
 I left his memorial service a few hours before composing this post. The eulogies for him were heart-wrenching and beautiful. He was deeply beloved by many because of his infectious joy for life and his efforts to share that joy with others. He built bridges between people, and he did so not by accident but with intentionality---because wherever he saw a way to make things better he went out and did it. He loved poetry.
 
