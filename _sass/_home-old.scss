@@ -2,12 +2,7 @@
   Posts
 */
 
-.post-card {
-  margin-bottom: 5rem;
-}
-
-.posts-container,
-.posts-container2 {
+.posts-container {
   margin-bottom: 5rem;
   padding: 0px;
   list-style: none;
@@ -15,21 +10,8 @@
 
 .posts-container2 {
   margin-bottom: 0rem;
-}
-
-.post-card__body {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-
-.post-card__content {
+  padding: 0px;
   list-style: none;
-}
-
-.post-card__media {
-  display: flex;
-  justify-content: center;
 }
 
 /*
@@ -37,38 +19,15 @@
 */
 
 .thumbnail-container {
-  min-width: 300px; 
-  max-width: 100%; 
+  max-width: 300px; /* 100%; */
   overflow: hidden;
-  border-radius: 0px;
-  margin-bottom: 5px;
+  border-radius: 5px;
+  margin-bottom: 25px;
 }
 
 .thumbnail-container img{
   margin-top: 0%; /* -11.5%; */
   margin-bottom: 0%; /* -11.5%; */
-}
-
-.post-card__body {
-  @media (min-width: 900px) {
-    align-items: flex-start;
-    flex-direction: row;
-    gap: 1.5rem;
-
-    .post-card__media {
-      order: 0;
-      flex: 0 0 260px;
-      justify-content: flex-start;
-
-      .thumbnail-container {
-        margin-bottom: 0;
-      }
-    }
-
-    .post-card__content {
-      order: 1;
-    }
-  }
 }
 
 /*

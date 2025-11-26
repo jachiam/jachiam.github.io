@@ -3,25 +3,31 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-  <div class="posts-container">
-    <h1>
+  <article class="post-card">
+    <h1 style="margin-top: 0;">
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
     </h1>
-    {% if post.image %}
-      <div class="thumbnail-container">
-        <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
-      </div>
-    {% endif %}
-    <p>
-      {% if post.preview %}
-        {{post.preview}}
-      {% else %}
-        {{ post.content | strip_html | truncate: 350 }} 
+    <div class="post-card__body">
+      {% if post.image %}
+        <div class="post-card__media">
+          <div class="thumbnail-container">
+            <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
+          </div>
+        </div>
       {% endif %}
-      <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
-      <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
-    </p>
-  </div>
+      <div class="post-card__content">
+        <p style="margin-top: 0;">
+          {% if post.preview %}
+            {{post.preview}}
+          {% else %}
+            {{ post.content | strip_html | truncate: 350 }}
+          {% endif %}
+          <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+          <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+        </p>
+      </div>
+    </div>
+  </article>
 {% endfor %}
 <!-- Pagination links -->
 <div class="pagination">
