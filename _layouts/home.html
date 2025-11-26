@@ -10,10 +10,10 @@ layout: default
       </h1>
     </div>
     <div class="post-card__body">
-      {% if post.image %}
+      {% if post.image_preview %}
         <div class="post-card__media">
           <div class="thumbnail-container">
-            <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
+            <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image_preview }}"></a>
           </div>
         </div>
       {% endif %}
