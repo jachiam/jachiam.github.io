@@ -6,7 +6,7 @@ categories: blog
 tags: [blog]
 image_preview: sinatra.png
 image: sinatra.png
-imagecredit: Image stolen shamelessly from <a href="https://www.npr.org/2009/09/22/112684280/sinatra-and-jobim-david-gray-on-quiet-nights">an NPR article</a> about Sinatra.
+imagecredit: Image taken from <a href="https://www.npr.org/2009/09/22/112684280/sinatra-and-jobim-david-gray-on-quiet-nights">an NPR article</a> about Sinatra.
 description: A song about science.
 preview: Erase it all / I've hit a wall / My result's minor!
 ---
