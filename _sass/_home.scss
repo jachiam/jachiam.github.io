@@ -49,6 +49,14 @@
   margin-bottom: 0%; /* -11.5%; */
 }
 
+.header-layout-wide {display: none;}
+.header-layout-narrow {display: block; }
+
+@media (min-width: 900px) {
+  .header-layout-wide {display: block;}
+  .header-layout-narrow {display: none; }  
+}
+
 .post-card__body {
   @media (min-width: 900px) {
     align-items: flex-start;

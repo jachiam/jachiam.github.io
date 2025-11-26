@@ -4,9 +4,11 @@ layout: default
 
 {% for post in paginator.posts %}
   <article class="post-card">
-    <h1 style="margin-top: 0;">
-      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-    </h1>
+    <div class="header-layout-narrow">
+      <h1 style="margin-top: 0;">
+        <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+      </h1>
+    </div>
     <div class="post-card__body">
       {% if post.image %}
         <div class="post-card__media">
@@ -16,6 +18,11 @@ layout: default
         </div>
       {% endif %}
       <div class="post-card__content">
+        <div class="header-layout-wide">
+          <h1 style="margin-top: 2px;">
+            <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+          </h1>
+        </div>
         <p style="margin-top: 0;">
           {% if post.preview %}
             {{post.preview}}
