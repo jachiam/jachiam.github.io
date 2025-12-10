@@ -10,13 +10,13 @@ layout: default
       </h1>
     </div>
     <div class="post-card__body">
-      {% if post.image_preview %}
-        <div class="post-card__media">
-          <div class="thumbnail-container">
+      <div class="post-card__media">
+        <div class="thumbnail-container">
+          {% if post.image_preview %}
             <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image_preview }}"></a>
-          </div>
+          {% endif %}
         </div>
-      {% endif %}
+      </div>
       <div class="post-card__content">
         <div class="header-layout-wide">
           <h1 style="margin-top: 2px;">
